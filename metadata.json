@@ -1,0 +1,6 @@
+{
+  "name": "TalkBridge AI",
+  "description": "Instant cross-app floating chat translator for WhatsApp, Messenger, Instagram, Telegram, and Facebook with real-time bidirectional translation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
